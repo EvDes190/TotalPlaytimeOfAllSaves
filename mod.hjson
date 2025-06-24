@@ -1,23 +1,15 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Total Playtime of all saves"
 
-#the internal name of your mod
-name: "example-java-mod"
+name: "tptas"
 
-#your name
-author: "You"
+author: "EvDes"
 
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "tptas.TotalPlaytimeOfAllSaves"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "This mod show your total playtime of all saves, open console (f8) for see time."
 
-#the mod version
 version: 1.0
 
-#the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 147
 
-#this is a java mod
 java: true
